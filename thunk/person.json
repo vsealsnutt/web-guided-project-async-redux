@@ -1,0 +1,40 @@
+{
+    "results":[
+        {
+            "gender":"male",
+            "name":{"title":"Mr","first":"Salvador","last":"Ramos"},
+            "location": {
+                "street":{"number":3839,"name":"Avenida de Salamanca"},
+                "city":"Barcelona",
+                "state":"Melilla",
+                "country":"Spain",
+                "postcode":59359,
+                "coordinates":{"latitude":"-36.4680","longitude":"-100.6326"},
+                "timezone": {
+                    "offset":"+10:00",
+                    "description":"Eastern Australia, Guam, Vladivostok"
+                }
+            },
+            "email":"salvador.ramos@example.com",
+            "login":{"uuid":"ece621d8-16b6-4ca6-9ea3-76b183fe2cd1",
+                "username":"redduck539",
+                "password":"trans",
+                "salt":"hxUAWOyt",
+                "md5":"afdbca70f4b26720b785674f65aef0f2",
+                "sha1":"08b9ac8953f824ac1c91bcfe1eac805dd4dfb76b",
+                "sha256":"e54283d5fbe318ab7fe02851231a5904cd48afe8c3ca00799ab2d51b14a6e2ac"
+            },
+            "dob":{"date":"1966-04-10T15:55:55.551Z","age":56},
+            "registered":{"date":"2016-09-24T21:39:40.329Z","age":6},
+            "phone":"952-991-880","cell":"632-694-487",
+            "id":{"name":"DNI","value":"31081499-E"},
+            "picture": {
+                "large":"https://randomuser.me/api/portraits/men/11.jpg",
+                "medium":"https://randomuser.me/api/portraits/med/men/11.jpg",
+                "thumbnail":"https://randomuser.me/api/portraits/thumb/men/11.jpg"
+            },
+            "nat":"ES"
+        }],
+        "info":{"seed":"b51f6622b36ae12b","results":1,"page":1,"version":"1.4"
+        }
+ }
